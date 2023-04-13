@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from scipy.stats import kruskal
+from scipy import stats
 
 chat_id = 897901830 # Ваш chat ID, не меняйте название переменной
 
